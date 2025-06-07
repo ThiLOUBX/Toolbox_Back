@@ -1,0 +1,3 @@
+#!/opt/nfs/dev-projects/thilbaut_loubeyere/backend/.venv/bin/python3
+from ldapdomaindump import pretty
+pretty.main()
